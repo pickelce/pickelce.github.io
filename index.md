@@ -62,6 +62,7 @@ When looking at the data in tabular format, we found that there were very few nu
 
 EDA on how the publication has grown, (based on the amount of reviews conducted each year)
 # 1stPic Here
+![](/Users/chadpickelheimer/Desktop/GitHub Images)
 
 
 
