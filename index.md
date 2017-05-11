@@ -60,7 +60,7 @@ We made histograms and box-and-whisker plots to summarize key points in the data
 When looking at the data in tabular format, we found that there were very few null records and that the data must have been cleaned by the user that posted it on Kaggle. As such, we were able to begin our analysis of the data fairly quickly.
 
 
-* EDA on how the publication has grown, (based on the amount of reviews conducted each year)* 
+*EDA on how the publication has grown, (based on the amount of reviews conducted each year* 
 
 ![](1stPic.png)
 
@@ -75,20 +75,21 @@ When looking at the data in tabular format, we found that there were very few nu
 
 
 
-* EDA on BNM awarded to different genres *
+*EDA on BNM awarded to different genres*
 
 ![](2ndPic.png)
 
 
 
 
-* EDA on the most frequent contributors to the publication (based on # of reviews written) *
+*EDA on the most frequent contributors to the publication (based on # of reviews written)*
 
 ![](3rdPic.png)
 
 ## Design Evolution 
 
 ![](4thPic.png)
+*Original Hand Sketch of Dashboard*
 
 
 
@@ -133,7 +134,7 @@ We feel that this final dashboard is an extremely well put together, by separati
 
 ## Analysis of the Dashboards
 
-* Copied image of our dashboards for easy reference *
+*Copied image of our dashboards for easy reference*
 
 
 ![](FinalDash1.png)
@@ -148,7 +149,7 @@ The scores that Top Contributors give out are more subject to change. This is li
 
 
 
-* Copied image of our dashboards for easy reference *
+*Copied image of our dashboards for easy reference*
 
 ![](FinalDash1.png)
 ![](FinalDash2.png)
