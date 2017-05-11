@@ -106,11 +106,17 @@ After reviewing the first round of designs there were many things that needed to
 
 Above is the original dashboard that we had submitted for review. One of the very first issues we had to account for was the color scheme that we had chosen to use. If you notice, the graphs themselves look very uniform and similar when presented on a dashboard, however this posed a problem for our viewers. There is no difference between the colors we used for the authors of the reviews and the genres that chose to review. To combat this problem, we decided to replace our current color schemes with two different color schemes that were also considered color blind safe. This now helped users distinguish more clearly what it was that they were looking at. (Adjustments will be shown in the Implementation section)
 
-There were also certain insights that we had discovered but were unsure of how to communicate them more clearly. The main insight we felt we wanted to communicate was how individual albums and genres were being rated by individual authors. To combat this issue, we decided to create a new dot chart that would highlight the individual albums and where they fell and we were also able to filter the data by genre. The graph will be displayed in the Implementation section of the process book.
+There were also certain insights that we had discovered but were unsure of how to communicate them more clearly. The main insight we felt we wanted to communicate was how individual albums and genres were being rated by individual authors. To combat this issue, we decided to create a new dot chart that would highlight the individual albums and where they fell and we were also able to filter the data by genre. The graph is as follows:
+
+![](6thpic.png)
 
 ## Implementation
 
-We mocked up a plot for the “Total Reviews vs. Best New Music by Genre” sheet (as it appeared on the sketch of our dashboard). Unfortunately, we felt it was not as readable as an alternative medium. We tried many different color schemes and options, but we struggled to improve the readability of the graph. After showing this plot to some of our housemates, they were unable to derive many insights from it. As such, we decided to go with two adjacent bar charts in the final draft of our dashboard.
+We mocked up a plot for the “Total Reviews vs. Best New Music by Genre” sheet (as it appeared on the sketch of our dashboard). Unfortunately, we felt it was not as readable as an alternative medium. We tried many different color schemes and options, but we struggled to improve the readability of the graph. After showing this plot to some of our housemates, they were unable to derive many insights from it. 
+
+![](7thpic.png)
+
+As such, we decided to go with two adjacent bar charts in the final draft of our dashboard.
 
 In order to limit the amount of data on our dashboard, we limited some of our analysis for top genres and top authors. We filtered the data to include only the Top 4 genres (by number of reviews for each one), and the Top 5 authors (also by number of reviews written). This allowed us to reduce clutter on the graphs, and gave us a large sample size for analysis.
 
