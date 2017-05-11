@@ -62,7 +62,9 @@ When looking at the data in tabular format, we found that there were very few nu
 
 EDA on how the publication has grown, (based on the amount of reviews conducted each year)
 # 1stPic Here
-![](/Users/chadpickelheimer/Desktop/GitHub Images)
+![](1stPic.png)
+
+
 
 
 
@@ -74,16 +76,19 @@ EDA on how the publication has grown, (based on the amount of reviews conducted 
 
 
 EDA on BNM awarded to different genres
-# 2ndPic Here
+
+![](2ndPic.png)
 
 
 
 
 EDA on the most frequent contributors to the publication (based on # of reviews written)
-# 3rdPic Here
+
+![](3rdPic.png)
 
 Design Evolution 
-# 4th Pic Here
+
+![](4thPic.png)
 
 
 
@@ -96,21 +101,21 @@ We also considered different opportunities for interactivity. By creating a hier
 
 After reviewing the first round of designs there were many things that needed to be adjusted to allow our insights to be more readily available. We had many corrections to make, from simple color scheme design to more pressing insights that we felt we had missed the first time.
 
-# 5thPic Here
 
+![](5thPic.png)
 
 Above is the original dashboard that we had submitted for review. One of the very first issues we had to account for was the color scheme that we had chosen to use. If you notice, the graphs themselves look very uniform and similar when presented on a dashboard, however this posed a problem for our viewers. There is no difference between the colors we used for the authors of the reviews and the genres that chose to review. To combat this problem, we decided to replace our current color schemes with two different color schemes that were also considered color blind safe. This now helped users distinguish more clearly what it was that they were looking at. (Adjustments will be shown in the Implementation section)
 
 There were also certain insights that we had discovered but were unsure of how to communicate them more clearly. The main insight we felt we wanted to communicate was how individual albums and genres were being rated by individual authors. To combat this issue, we decided to create a new dot chart that would highlight the individual albums and where they fell and we were also able to filter the data by genre. The graphs are as follows:
 
-# 6thPic Here
 
+![](6thPic.png)
 
 ## Implementation
 
 We mocked up a plot for the “Total Reviews vs. Best New Music by Genre” sheet (as it appeared on the sketch of our dashboard). Unfortunately, we felt it was not as readable as an alternative medium. We tried many different color schemes and options, but we struggled to improve the readability of the graph. After showing this plot to some of our housemates, they were unable to derive many insights from it.
 
-# 7thPic Here
+![](7thPic.png)
 
 As such, we decided to go with two adjacent bar charts in the final draft of our dashboard.
 
@@ -118,7 +123,9 @@ In order to limit the amount of data on our dashboard, we limited some of our an
 
 ## Final Draft of our Dashboards
 
-# Final Dash 1&2
+
+![](FinalDash1.png)
+![](FinalDash2.png)
 
 
 As you can see, from the original dashboard, we decided to break up our singular dashboard into two dashboards where insights about the genres and authors could be examined more clearly. The line graphs are now completely separated with different colors which allows us to quickly identify what it is that we are looking it. We also decided to use the median rating on the genre dashboard as opposed to the average to give us a better understanding of the data. The addition of the dot plot on the author dashboard, previously mentioned, gave us a more granular insight into how each album and genre fell into the author categories. This allowed us to examine the insight of how different genres and albums varied between the authors. Additionally, we included elements for the user to interact with so that they can explore the data on their own. We found this to be one of the most enticing parts of the dashboard.
@@ -129,8 +136,9 @@ We feel that this final dashboard is an extremely well put together, by separati
 
 Copied image of our dashboards for easy reference
 
-# Final Dash 1&2
 
+![](FinalDash1.png)
+![](FinalDash2.png)
 
 Median ratings given out by the publication have stayed fairly consistent over time. One would assume that Pitchfork preferred 90’s rap due to the spike in review scores given in 1999. However, they only reviewed 4 albums in 1999 so this is not a significant outlier in the data. Even though Pitchfork prides itself on being a very critical review site, their average score is around a 7; this skews higher than expected. The publication has the greatest preference for Experimental music, as it scores consistently higher than all other genres (albeit by a small margin).
 
@@ -143,8 +151,8 @@ The scores that Top Contributors give out are more subject to change. This is li
 
 Copied image of our dashboards for easy reference
 
-# Final Dash 1&2
-
+![](FinalDash1.png)
+![](FinalDash2.png)
 
 
 Rock is overwhelmingly the most popular genre for Pitchfork to review; it is over twice as popular as Electronic music, and is over four times as popular as all other genres. As such, it has a proportional level of dominance in terms of the “Best New Music” awards it receives. In fact, “Best New Music” awards given to each genre are exactly proportional to the number of reviews each genre receives. The only exception is Pop/R&B: Rap music for the BNM award, even though Rap has a higher number of reviews granted.
